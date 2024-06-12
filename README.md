@@ -1,8 +1,5 @@
 # First
-create a folder named frontend
-```bash
-cd fontend
-```
+
 to change the directory
 # Frontend for Your Project
 
@@ -19,6 +16,7 @@ This frontend application serves as the client-side component for your project. 
 Clone the Repository in terminal  within the fontend folder
 ```bash
 git clone <repository_url>
+cd vite-fontend
 ```
 
 Install Dependencies
