@@ -1,3 +1,5 @@
+# First
+create a folder named frontend
 # Frontend for Your Project
 
 This frontend application serves as the client-side component for your project. It is built using Vite, React, and other dependencies.
