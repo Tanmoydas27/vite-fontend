@@ -39,9 +39,5 @@ now run the Vite+react app or fontend using
 npm run dev
 ```
 
-Replace http://localhost:5000 with the actual base URL of your Flask backend API.
-
-Vite Configuration
-
 The Vite configuration file (vite.config.js) is used to configure Vite-specific settings. Ensure that your Vite configuration includes any necessary plugins or customizations.
-### This command starts the development server for your Vite application. Open your web browser and navigate to http://localhost:3000 to view the application.
+### This command starts the development server for your Vite application. Open your web browser and navigate to http://localhost:5173 to view the application.
