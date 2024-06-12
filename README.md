@@ -10,18 +10,15 @@ This frontend application serves as the client-side component for your project. 
 
 ## Configuration
 
+### Installation
 
+### Prerequisites
 
-Installation
+ - Node.js and npm installed on your machine
 
-Prerequisites
-
-    Node.js and npm installed on your machine
-
-Clone the Repository
+Clone the Repository in terminal  within the fontend folder
 ```bash
 git clone <repository_url>
-cd <repository_name>
 ```
 
 Install Dependencies
