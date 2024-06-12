@@ -30,7 +30,8 @@ Before Running the Application
 Create a `.env` file in the root directory of your frontend project and add the following environment variables,:
 
 ```bash
-REACT_APP_API_BASE_URL=http://localhost:5000
+VITE_APP_GOOGLE_CLIENT_ID =12987315580-r5piiplf6vmlmebdc3dpgtbhn9uc8d9f.apps.googleusercontent.com
+VITE_APP_API_URL=http://localhost:5000
 ```
 this url is the backend flask url if it not match with Flask url then backend server should not be Worked.
 now run the Vite+react app or fontend using
